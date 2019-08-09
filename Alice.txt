@@ -1,4 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-Text on the other line.
+Text on the other line - this was changed on Remotely master.
 Adding text on third line.
 Adding even more text on fourth line.
